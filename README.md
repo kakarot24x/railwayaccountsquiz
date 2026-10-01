@@ -15,7 +15,21 @@ Current version: **v1.0.1.227**
 
 ## 📸 Screenshots
 
-See the `screenshots/` folder.
+| Sign Up | Login | Waiting for Approval |
+|---|---|---|
+| ![Sign up](screenshots/01-signup.png) | ![Login](screenshots/02-login.png) | ![Waiting for approval](screenshots/03-waiting-approval.png) |
+
+| Home | Quiz Question | Result |
+|---|---|---|
+| ![Home](screenshots/04-home.png) | ![Quiz question](screenshots/05-quiz-question.png) | ![Result](screenshots/06-result.png) |
+
+| Forum | Forum Discussion | Live Quiz |
+|---|---|---|
+| ![Forum](screenshots/07-forum.png) | ![Forum discussion](screenshots/08-forum-discussion.png) | ![Live quiz](screenshots/09-live-quiz.png) |
+
+| Misc Notes | My Performance |
+|---|---|
+| ![Misc notes](screenshots/10-misc-notes.png) | ![My performance](screenshots/11-my-performance.png) |
 
 ---
 Developed by Narendra
