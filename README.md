@@ -1,7 +1,5 @@
 # 🚂 Railway Accounts Quiz App
 
-Android quiz app for **Railway Accounts (Appendix III-A)** exam preparation.
-
 - ~7,800 MCQs across Railway Board, IRIFM, N. Rao & CTARA chapters
 - Standard, Rapid-Fire & Random quiz modes with timers
 - 📚 Theory reader, 🤖 Goku AI companion, 💬 Forum, 🏆 Live quizzes
@@ -30,6 +28,3 @@ Current version: **v1.0.1.227**
 | Misc Notes | My Performance |
 |---|---|
 | ![Misc notes](screenshots/10-misc-notes.png) | ![My performance](screenshots/11-my-performance.png) |
-
----
-Developed by Narendra
