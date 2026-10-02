@@ -9,7 +9,7 @@
 
 Get the latest APK from **[Releases](../../releases)** and install it on your Android phone. (You may need to allow "Install unknown apps" for your browser.)
 
-Current version: **v1.0.1.231**
+Current version: **v1.0.1.247**
 
 ## 📸 Screenshots
 
