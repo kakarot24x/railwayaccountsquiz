@@ -9,7 +9,7 @@
 
 Get the latest APK from **[Releases](../../releases)** and install it on your Android phone. (You may need to allow "Install unknown apps" for your browser.)
 
-Current version: **v1.0.1.228**
+Current version: **v1.0.1.229**
 
 ## 📸 Screenshots
 
@@ -29,9 +29,9 @@ Current version: **v1.0.1.228**
 |---|---|
 | ![Misc notes](screenshots/10-misc-notes.png) | ![My performance](screenshots/11-my-performance.png) |
 
-| AI API Keys | Goku AI Explanation | Offline Explanation |
-|---|---|---|
-| ![AI API keys](screenshots/12-ai-api-keys.png) | ![Goku AI explanation](screenshots/13-goku-explanation.png) | ![Offline explanation](screenshots/14-offline-explanation.png) |
+| AI API Keys | Goku AI Explanation (Groq) | Goku AI Explanation (OpenAI) | Offline Explanation |
+|---|---|---|---|
+| ![AI API keys](screenshots/12-ai-api-keys.png) | ![Goku AI explanation](screenshots/13-goku-explanation.png) | ![OpenAI explanation](screenshots/15-openai-explanation.png) | ![Offline explanation](screenshots/14-offline-explanation.png) |
 
 ## 🤖 Goku AI — API key based
 
