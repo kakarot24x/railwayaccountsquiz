@@ -1,6 +1,6 @@
 # 🚂 Railway Accounts Quiz App
 
-- MCQs across Railway Board, IRIFM, N. Rao & CTARA chapters
+- MCQs across Railway Board, IRIFM & CTARA chapters
 - Standard, Rapid-Fire & Random quiz modes with timers
 - 📚 Theory reader, 🤖 Goku AI companion, 💬 Forum, 🏆 Live quizzes
 - Works offline; progress syncs when online
