@@ -4,7 +4,7 @@
 
 Native Android app for **Railway Accounts Department** exam preparation — MCQs, theory reader, AI companion, forum, live quizzes.
 
-- 📚 **30,000+ MCQs** across Railway Board, IRIFM, N Rao, CTARA & Accounts Department Exam
+- 📚 **30,000+ MCQs** across Railway Board, IRIFM, Misc MCQs, CTARA & Accounts Department Exam
 - 🎯 **Accounts Department Exam**: Paper-I (GRP, Establishment, Leave Rules, Pass Rules...), Paper-II, Paper-III
 - ⚡ **Quiz modes**: Standard, Rapid-Fire & Random with per-question timers
 - 🤖 **AI Assistant Sr.AI'so** — accounts expert chatbot with your own API keys
@@ -34,7 +34,7 @@ Current version: **v1.0.1.723** (native) — app name: **RADEQuiz**
 
 | Section | What it does |
 |---|---|
-| 🏠 **Home** | Subject tiles (Railway Board, IRIFM, N Rao, CTARA, Accounts Department Exam) with glass-pill design; long-press to reorder/rename |
+| 🏠 **Home** | Subject tiles (Railway Board, IRIFM, Misc MCQs, CTARA, Accounts Department Exam) with glass-pill design; long-press to reorder/rename |
 | 📝 **Quiz Setup** | Per-topic panel: Start Quiz (10/20/30/All questions), timer (No/30s/45s/1m/2m), Attempted/Remaining counts |
 | ⚡ **Rapid-Fire** | 15/30s timer, instant answer reveal, auto-advance; no Submit button |
 | 🎲 **Random Quiz** | Mixed questions across selected topics |
