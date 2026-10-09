@@ -1,4 +1,4 @@
-# 🚂 RADEQuiz — Railway Accounts Quiz App (Native)
+# 🚂 RADEQuiz — Railway Accounts Department Examination Quiz
 
 Native Android app for **Railway Accounts Department** exam preparation — MCQs, theory reader, AI companion, forum, live quizzes.
 
@@ -73,14 +73,14 @@ Sign up with email → **Waiting for Approval** page → admin approves → Inst
 
 | Login | Sign Up | Waiting for Approval | Logged In |
 |---|---|---|---|
-| ![Login](screenshots/01-login.png) | ![Sign up](screenshots/signup.jpg) | ![Waiting for approval](screenshots/waiting-approval.jpg) | ![Logged in](screenshots/logged-in.jpg) |
+| ![Login](screenshots/login.jpg) | ![Sign up](screenshots/signup.jpg) | ![Waiting for approval](screenshots/waiting-approval.jpg) | ![Logged in](screenshots/logged-in.jpg) |
 
 ### 🏠 Home — Midnight & Day
 Streak card (today's questions, accuracy, total Qs, day streak), **▶ RESUME PRACTICE**, live quiz countdown, and subject tiles with progress bars. Toggle **🌊 Liquid Midnight** / **☀️ Day** from the top bar.
 
-| Home | Home — Midnight | Home — Day |
-|---|---|---|
-| ![Home](screenshots/02-home.png) | ![Home midnight](screenshots/home-midnight.jpg) | ![Home day](screenshots/home-day.jpg) |
+| Home — Midnight | Home — Day |
+|---|---|
+| ![Home midnight](screenshots/home-midnight.jpg) | ![Home day](screenshots/home-day.jpg) |
 
 The navigation **drawer** shows your profile, day streak, level, access duration pill, and links to Home, My Performance, Sr.AI'so, Forum, Contact Us, About App.
 
@@ -89,9 +89,9 @@ The navigation **drawer** shows your profile, day streak, level, access duration
 ### ❓ Quiz Question
 Rapid mode with instant answer reveal (green ✓), **Explanation** card with EN/HIN toggle, **Sr.AI'so** follow-up, per-question timer, bookmark, and Prev/Next navigation.
 
-| Quiz | Explanation (Hindi) | Explanation (English) | Timer |
+| Explanation (Hindi) | Explanation (English) | Explanation (Gemini) | Timer |
 |---|---|---|---|
-| ![Quiz question](screenshots/quiz-question.png) | ![Quiz Hindi](screenshots/quiz-explanation-hindi.jpg) | ![Quiz English](screenshots/quiz-explanation-english.jpg) | ![Quiz timer](screenshots/quiz-timer.jpg) |
+| ![Quiz Hindi](screenshots/quiz-explanation-hindi.jpg) | ![Quiz English](screenshots/quiz-explanation-english.jpg) | ![Quiz Gemini](screenshots/quiz-explanation-gemini.jpg) | ![Quiz timer](screenshots/quiz-timer.jpg) |
 
 ### 📝 Practice Sets, Topics & Random Quiz
 Chapter-wise **Practice Sets** (50 questions each), topic lists with Attempted/Remaining counts, and **Random Quiz** mixing questions across subjects.
@@ -117,9 +117,9 @@ Admin-published quizzes on focused topics (Plan Heads, Statistics Code, Revenue,
 ### 🤖 AI Assistant Sr.AI'so
 Accounts-expert chatbot — ask anything (e.g. "Option Clause?", "LAP kya hai?") with your own API keys (Free/Groq/Gemini/OpenAI).
 
-| AI Chat | AI Chat | AI Chat |
-|---|---|---|
-| ![AI chat](screenshots/ai-chat.png) | ![Sr.AI'so chat](screenshots/sr-aiso-chat.jpg) | ![Sr.AI'so LAP](screenshots/sr-aiso-chat-lap.jpg) |
+| AI Chat | AI Chat |
+|---|---|
+| ![Sr.AI'so chat](screenshots/sr-aiso-chat.jpg) | ![Sr.AI'so LAP](screenshots/sr-aiso-chat-lap.jpg) |
 
 ### 🔴 Live Quiz
 Live-now quiz with Join button, upcoming scheduled quizzes, and past quiz history.
@@ -131,9 +131,9 @@ Live-now quiz with Join button, upcoming scheduled quizzes, and past quiz histor
 ### 📊 My Performance
 Accuracy donut, stat tiles, score-trend graph, per-mode averages, activity chart, and **Focus Areas** (weakest topics).
 
-| Performance | Performance | Paper-I |
-|---|---|---|
-| ![My performance](screenshots/my-performance.png) | ![My performance full](screenshots/my-performance-full.jpg) | ![Paper-I](screenshots/paper1.png) |
+| My Performance |
+|---|
+| ![My performance](screenshots/my-performance-full.jpg) |
 
 ### 📝 Misc Notes
 Subtopic-wise PDF notes from Drive.
