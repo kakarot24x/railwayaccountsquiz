@@ -68,11 +68,77 @@ Every question ships with a **bundled static explanation** that works with **no 
 
 ## 📸 Screenshots
 
-| Login | Home | Quiz Question |
-|---|---|---|
-| ![Login](screenshots/01-login.png) | ![Home](screenshots/02-home.png) | ![Quiz question](screenshots/quiz-question.png) |
+### 🔐 Login & Sign Up
+Sign up with email → **Waiting for Approval** page → admin approves → Instagram-style verified badge animation → Home.
 
-| My Performance | Paper-I | AI Assistant Sr.AI'so |
+| Login | Sign Up | Waiting for Approval | Logged In |
+|---|---|---|---|
+| ![Login](screenshots/01-login.png) | ![Sign up](screenshots/signup.jpg) | ![Waiting for approval](screenshots/waiting-approval.jpg) | ![Logged in](screenshots/logged-in.jpg) |
+
+### 🏠 Home — Midnight & Day
+Streak card (today's questions, accuracy, total Qs, day streak), **▶ RESUME PRACTICE**, live quiz countdown, and subject tiles with progress bars. Toggle **🌊 Liquid Midnight** / **☀️ Day** from the top bar.
+
+| Home | Home — Midnight | Home — Day |
 |---|---|---|
-| ![My performance](screenshots/my-performance.png) | ![Paper-I](screenshots/paper1.png) | ![AI chat](screenshots/ai-chat.png) |
+| ![Home](screenshots/02-home.png) | ![Home midnight](screenshots/home-midnight.jpg) | ![Home day](screenshots/home-day.jpg) |
+
+The navigation **drawer** shows your profile, day streak, level, access duration pill, and links to Home, My Performance, Sr.AI'so, Forum, Contact Us, About App.
+
+![Drawer](screenshots/drawer.jpg)
+
+### ❓ Quiz Question
+Rapid mode with instant answer reveal (green ✓), **Explanation** card with EN/HIN toggle, **Sr.AI'so** follow-up, per-question timer, bookmark, and Prev/Next navigation.
+
+| Quiz | Explanation (Hindi) | Explanation (English) | Timer |
+|---|---|---|---|
+| ![Quiz question](screenshots/quiz-question.png) | ![Quiz Hindi](screenshots/quiz-explanation-hindi.jpg) | ![Quiz English](screenshots/quiz-explanation-english.jpg) | ![Quiz timer](screenshots/quiz-timer.jpg) |
+
+### 📝 Practice Sets, Topics & Random Quiz
+Chapter-wise **Practice Sets** (50 questions each), topic lists with Attempted/Remaining counts, and **Random Quiz** mixing questions across subjects.
+
+| Practice Sets | Practice Sets | Railway Board Topics | IRIFM Topics | Random Quiz |
+|---|---|---|---|---|
+| ![Practice sets](screenshots/practice-sets.jpg) | ![Practice sets early](screenshots/practice-sets-early.jpg) | ![Railway Board](screenshots/railway-board-topics.jpg) | ![IRIFM](screenshots/irifm-topics.jpg) | ![Random quiz](screenshots/random-quiz.jpg) |
+
+### 🎯 Appendix 3 (IREM) Special
+**Paper-I** (6,440 Q), **Paper-II** (6,670 Q), **Paper-III** (6,790 Q) — tap a paper for a 100-question quiz or topic-wise study.
+
+| Papers |
+|---|
+| ![Appendix 3 papers](screenshots/appendix3-papers.jpg) |
+
+### ✨ AI Quizes
+Admin-published quizzes on focused topics (Plan Heads, Statistics Code, Revenue, Stores Account, Pension…).
+
+| AI Quizes |
+|---|
+| ![AI Quizes](screenshots/ai-quizes.jpg) |
+
+### 🤖 AI Assistant Sr.AI'so
+Accounts-expert chatbot — ask anything (e.g. "Option Clause?", "LAP kya hai?") with your own API keys (Free/Groq/Gemini/OpenAI).
+
+| AI Chat | AI Chat | AI Chat |
+|---|---|---|
+| ![AI chat](screenshots/ai-chat.png) | ![Sr.AI'so chat](screenshots/sr-aiso-chat.jpg) | ![Sr.AI'so LAP](screenshots/sr-aiso-chat-lap.jpg) |
+
+### 🔴 Live Quiz
+Live-now quiz with Join button, upcoming scheduled quizzes, and past quiz history.
+
+| Live Quiz |
+|---|
+| ![Live quiz](screenshots/live-quiz.jpg) |
+
+### 📊 My Performance
+Accuracy donut, stat tiles, score-trend graph, per-mode averages, activity chart, and **Focus Areas** (weakest topics).
+
+| Performance | Performance | Paper-I |
+|---|---|---|
+| ![My performance](screenshots/my-performance.png) | ![My performance full](screenshots/my-performance-full.jpg) | ![Paper-I](screenshots/paper1.png) |
+
+### 📝 Misc Notes
+Subtopic-wise PDF notes from Drive.
+
+| Misc Notes |
+|---|
+| ![Misc notes](screenshots/misc-notes.jpg) |
 
