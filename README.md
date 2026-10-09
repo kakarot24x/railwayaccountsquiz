@@ -14,7 +14,7 @@ Native Android app for **Railway Appendix III-A** exam preparation — MCQs, the
 
 Get the latest APK from **[Releases](../../releases)** and install it on your Android phone. (You may need to allow "Install unknown apps" for your browser.)
 
-Current version: **v1.0.1.718** (native)
+Current version: **v1.0.1.720** (native)
 
 ## 🔐 Login
 
