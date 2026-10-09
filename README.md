@@ -68,22 +68,10 @@ Every question ships with a **bundled static explanation** that works with **no 
 
 ## 📸 Screenshots
 
-| Sign Up | Login | Waiting for Approval |
+| Login | Home | Quiz Question |
 |---|---|---|
-| ![Sign up](screenshots/01-signup.png) | ![Login](screenshots/02-login.png) | ![Waiting for approval](screenshots/03-waiting-approval.png) |
+| ![Login](screenshots/01-login.png) | ![Home](screenshots/02-home.png) | ![Quiz question](screenshots/03-quiz-question.png) |
 
-| Home | Quiz Question | Result |
+| My Performance | Paper-I | Sr.AI'so AI Chat |
 |---|---|---|
-| ![Home](screenshots/04-home.png) | ![Quiz question](screenshots/05-quiz-question.png) | ![Result](screenshots/06-result.png) |
-
-| Forum | Forum Discussion | Live Quiz |
-|---|---|---|
-| ![Forum](screenshots/07-forum.png) | ![Forum discussion](screenshots/08-forum-discussion.png) | ![Live quiz](screenshots/09-live-quiz.png) |
-
-| Misc Notes | My Performance |
-|---|---|
-| ![Misc notes](screenshots/10-misc-notes.png) | ![My performance](screenshots/11-my-performance.png) |
-
-| AI API Keys | AI Explanation | Offline Explanation |
-|---|---|---|
-| ![AI API keys](screenshots/12-ai-api-keys.png) | ![AI explanation](screenshots/13-goku-explanation.png) | ![Offline explanation](screenshots/14-offline-explanation.png) |
+| ![My performance](screenshots/04-my-performance.png) | ![Paper-I](screenshots/05-paper1.png) | ![AI chat](screenshots/06-ai-chat.png) |
