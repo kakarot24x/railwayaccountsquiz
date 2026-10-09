@@ -70,8 +70,9 @@ Every question ships with a **bundled static explanation** that works with **no 
 
 | Login | Home | Quiz Question |
 |---|---|---|
-| ![Login](screenshots/01-login.png) | ![Home](screenshots/02-home.png) | ![Quiz question](screenshots/03-quiz-question.png) |
+| ![Login](screenshots/01-login.png) | ![Home](screenshots/02-home.png) | ![Quiz question](screenshots/quiz-question.png) |
 
 | My Performance | Paper-I | AI Assistant Sr.AI'so |
 |---|---|---|
-| ![My performance](screenshots/04-my-performance.png) | ![Paper-I](screenshots/05-paper1.png) | ![AI chat](screenshots/06-ai-chat.png) |
+| ![My performance](screenshots/my-performance.png) | ![Paper-I](screenshots/paper1.png) | ![AI chat](screenshots/ai-chat.png) |
+
