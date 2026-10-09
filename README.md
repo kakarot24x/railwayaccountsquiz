@@ -1,3 +1,5 @@
+<p align="center"><img src="app-icon.png" width="120" alt="RADEQuiz app icon"></p>
+
 # 🚂 RADEQuiz — Railway Accounts Department Examination Quiz
 
 Native Android app for **Railway Accounts Department** exam preparation — MCQs, theory reader, AI companion, forum, live quizzes.
