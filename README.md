@@ -5,7 +5,7 @@ Native Android app for **Railway Accounts Department** exam preparation — MCQs
 - 📚 **30,000+ MCQs** across Railway Board, IRIFM, N Rao, CTARA & Accounts Department Exam
 - 🎯 **Accounts Department Exam**: Paper-I (GRP, Establishment, Leave Rules, Pass Rules...), Paper-II, Paper-III
 - ⚡ **Quiz modes**: Standard, Rapid-Fire & Random with per-question timers
-- 🤖 **Sr.AI'so AI companion** — accounts expert chatbot with your own API keys
+- 🤖 **AI Assistant Sr.AI'so** — accounts expert chatbot with your own API keys
 - 📊 **My Performance** — accuracy donut, score trends, focus areas
 - 💬 **Forum**, 🏆 **Live Quiz**, 📝 **Misc Notes**
 - 🌙 Day / Liquid Midnight themes
@@ -19,7 +19,7 @@ Current version: **v1.0.1.720** (native)
 ## 🔐 Login
 
 - **Sign Up** with email → lands on **Waiting for Approval** page
-- Admin approves from the RQ Admin app → Instagram-style verified badge animation → Home
+- Admin approves → Instagram-style verified badge animation → Home
 - **Login** for approved users with the same verified animation (~0.7s)
 - Banned users see an **Access Blocked** screen with inline Message Admin form
 - Sessions survive reinstalls; expired access shows a clear message, not a logout
@@ -41,15 +41,15 @@ Current version: **v1.0.1.720** (native)
 | ⚡ **Rapid-Fire** | 15/30s timer, instant answer reveal, auto-advance; no Submit button |
 | 🎲 **Random Quiz** | Mixed questions across selected topics |
 | 📚 **Topic Viewer** | Browse questions with 👁 Answers toggle; search; correct option highlighted |
-| 🤖 **Sr.AI'so AI** | Floating AI buddy — explanations, doubts, Hindi translation; 4 providers (Free/Groq/Gemini/OpenAI) |
+| 🤖 **AI Assistant Sr.AI'so** | Floating AI buddy — explanations, doubts, Hindi translation; 4 providers (Free/Groq/Gemini/OpenAI) |
 | 💬 **Forum** | Discussions with verified admin badge |
 | 🏆 **Live Quiz** | Scheduled live quizzes with leaderboard + past quiz history |
-| 📝 **Misc Notes** | Admin-published PDF notes, subtopic-wise |
+| 📝 **Misc Notes** | PDF notes, subtopic-wise |
 | 📊 **My Performance** | Graphs, trends, focus areas (see above) |
 | 📜 **My Attempts** | Full history with per-attempt review + Re-attempt |
 | ⚙️ **Drawer** | Day/Midnight toggle, access duration pill, Contact Us, About |
 
-## 🤖 Sr.AI'so AI — API key based
+## 🤖 AI Assistant Sr.AI'so — API key based
 
 Sr.AI'so, the in-app AI buddy, runs on your own API keys. Open AI chat → 🔑 **AI API Keys**, pick a provider, paste the key, press Save. Keys stay on your device only, never synced.
 
@@ -72,6 +72,6 @@ Every question ships with a **bundled static explanation** that works with **no 
 |---|---|---|
 | ![Login](screenshots/01-login.png) | ![Home](screenshots/02-home.png) | ![Quiz question](screenshots/03-quiz-question.png) |
 
-| My Performance | Paper-I | Sr.AI'so AI Chat |
+| My Performance | Paper-I | AI Assistant Sr.AI'so |
 |---|---|---|
 | ![My performance](screenshots/04-my-performance.png) | ![Paper-I](screenshots/05-paper1.png) | ![AI chat](screenshots/06-ai-chat.png) |
