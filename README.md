@@ -17,8 +17,8 @@ Current version: **v1.0.1.723** (native) — app name: **RADEQuiz**
 ## 🔐 Login
 
 - **Sign Up** with email → lands on **Waiting for Approval** page
-- Admin approves → Instagram-style verified badge animation → Home
-- **Login** for approved users with the same verified animation (~0.7s)
+- Admin approves → smooth approval animation → Home
+- **Login** for approved users with the same approval animation (~0.7s)
 - Banned users see an **Access Blocked** screen with inline Message Admin form
 - Sessions survive reinstalls; expired access shows a clear message, not a logout
 
@@ -67,7 +67,7 @@ Every question ships with a **bundled static explanation** that works with **no 
 ## 📸 Screenshots
 
 ### 🔐 Login & Sign Up
-Sign up with email → **Waiting for Approval** page → admin approves → Instagram-style verified badge animation → Home.
+Sign up with email → **Waiting for Approval** page → admin approves → smooth approval animation → Home.
 
 | Login | Sign Up | Waiting for Approval | Logged In |
 |---|---|---|---|
