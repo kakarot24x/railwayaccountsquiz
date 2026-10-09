@@ -1,9 +1,9 @@
 # 🚂 Railway Accounts Quiz App (Native)
 
-Native Android app for **Railway Appendix III-A** exam preparation — MCQs, theory reader, AI companion, forum, live quizzes.
+Native Android app for **Railway Accounts Department** exam preparation — MCQs, theory reader, AI companion, forum, live quizzes.
 
-- 📚 **30,000+ MCQs** across Railway Board, IRIFM, N Rao, CTARA & Appendix 3 (IREM) Special
-- 🎯 **Appendix 3 (IREM) Special**: Paper-I (GRP, Establishment, Leave Rules, Pass Rules...), Paper-II, Paper-III
+- 📚 **30,000+ MCQs** across Railway Board, IRIFM, N Rao, CTARA & Accounts Department Exam
+- 🎯 **Accounts Department Exam**: Paper-I (GRP, Establishment, Leave Rules, Pass Rules...), Paper-II, Paper-III
 - ⚡ **Quiz modes**: Standard, Rapid-Fire & Random with per-question timers
 - 🤖 **Sr.AI'so AI companion** — accounts expert chatbot with your own API keys
 - 📊 **My Performance** — accuracy donut, score trends, focus areas
@@ -36,7 +36,7 @@ Current version: **v1.0.1.720** (native)
 
 | Section | What it does |
 |---|---|
-| 🏠 **Home** | Subject tiles (Railway Board, IRIFM, N Rao, CTARA, Appendix 3 Special) with glass-pill design; long-press to reorder/rename |
+| 🏠 **Home** | Subject tiles (Railway Board, IRIFM, N Rao, CTARA, Accounts Department Exam) with glass-pill design; long-press to reorder/rename |
 | 📝 **Quiz Setup** | Per-topic panel: Start Quiz (10/20/30/All questions), timer (No/30s/45s/1m/2m), Attempted/Remaining counts |
 | ⚡ **Rapid-Fire** | 15/30s timer, instant answer reveal, auto-advance; no Submit button |
 | 🎲 **Random Quiz** | Mixed questions across selected topics |
