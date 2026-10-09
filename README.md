@@ -140,3 +140,7 @@ Subtopic-wise PDF notes from Drive.
 |---|
 | ![Misc notes](screenshots/misc-notes.jpg) |
 
+
+---
+
+<p align="center">Developed by <b>kakarot24x</b> <img src="verified.svg" width="16" height="16" alt="✓"></p>
