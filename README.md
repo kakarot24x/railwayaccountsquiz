@@ -10,10 +10,6 @@ Native Android app for **Railway Accounts Department** exam preparation — MCQs
 - 💬 **Forum**, 🏆 **Live Quiz**, 📝 **Misc Notes**
 - 🌙 Day / Liquid Midnight themes
 
-## 📥 Download
-
-Get the latest APK from **[Releases](../../releases)** and install it on your Android phone. (You may need to allow "Install unknown apps" for your browser.)
-
 Current version: **v1.0.1.723** (native) — app name: **RADEQuiz**
 
 ## 🔐 Login
