@@ -1,4 +1,4 @@
-<p align="center"><img src="app-icon.png" width="120" alt="RADEQuiz app icon"></p>
+<p align="center"><img src="https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/app-icon.png" width="120" alt="RADEQuiz app icon"></p>
 
 # 🚂 RADEQuiz — Railway Accounts Department Examination Quiz
 
@@ -71,76 +71,76 @@ Sign up with email → **Waiting for Approval** page → admin approves → smoo
 
 | Login | Sign Up | Waiting for Approval | Logged In |
 |---|---|---|---|
-| ![Login](screenshots/login.jpg) | ![Sign up](screenshots/signup.jpg) | ![Waiting for approval](screenshots/waiting-approval.jpg) | ![Logged in](screenshots/logged-in.jpg) |
+| ![Login](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/login.jpg) | ![Sign up](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/signup.jpg) | ![Waiting for approval](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/waiting-approval.jpg) | ![Logged in](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/logged-in.jpg) |
 
 ### 🏠 Home — Midnight & Day
 Streak card (today's questions, accuracy, total Qs, day streak), **▶ RESUME PRACTICE**, live quiz countdown, and subject tiles with progress bars. Toggle **🌊 Liquid Midnight** / **☀️ Day** from the top bar.
 
 | Home — Midnight | Home — Day |
 |---|---|
-| ![Home midnight](screenshots/home-midnight.jpg) | ![Home day](screenshots/home-day.jpg) |
+| ![Home midnight](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/home-midnight.jpg) | ![Home day](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/home-day.jpg) |
 
 The navigation **drawer** shows your profile, day streak, level, access duration pill, and links to Home, My Performance, Sr.AI'so, Forum, Contact Us, About App.
 
-![Drawer](screenshots/drawer.jpg)
+![Drawer](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/drawer.jpg)
 
 ### ❓ Quiz Question
 Rapid mode with instant answer reveal (green ✓), **Explanation** card with EN/HIN toggle, **Sr.AI'so** follow-up, per-question timer, bookmark, and Prev/Next navigation.
 
 | Explanation (Hindi) | Explanation (English) | Explanation (Gemini) | Timer |
 |---|---|---|---|
-| ![Quiz Hindi](screenshots/quiz-explanation-hindi.jpg) | ![Quiz English](screenshots/quiz-explanation-english.jpg) | ![Quiz Gemini](screenshots/quiz-explanation-gemini.jpg) | ![Quiz timer](screenshots/quiz-timer.jpg) |
+| ![Quiz Hindi](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/quiz-explanation-hindi.jpg) | ![Quiz English](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/quiz-explanation-english.jpg) | ![Quiz Gemini](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/quiz-explanation-gemini.jpg) | ![Quiz timer](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/quiz-timer.jpg) |
 
 ### 📝 Practice Sets, Topics & Random Quiz
 Chapter-wise **Practice Sets** (50 questions each), topic lists with Attempted/Remaining counts, and **Random Quiz** mixing questions across subjects.
 
 | Practice Sets | Practice Sets | Railway Board Topics | IRIFM Topics | Random Quiz |
 |---|---|---|---|---|
-| ![Practice sets](screenshots/practice-sets.jpg) | ![Practice sets early](screenshots/practice-sets-early.jpg) | ![Railway Board](screenshots/railway-board-topics.jpg) | ![IRIFM](screenshots/irifm-topics.jpg) | ![Random quiz](screenshots/random-quiz.jpg) |
+| ![Practice sets](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/practice-sets.jpg) | ![Practice sets early](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/practice-sets-early.jpg) | ![Railway Board](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/railway-board-topics.jpg) | ![IRIFM](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/irifm-topics.jpg) | ![Random quiz](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/random-quiz.jpg) |
 
 ### 🎯 Appendix 3 (IREM) Special
 **Paper-I** (6,440 Q), **Paper-II** (6,670 Q), **Paper-III** (6,790 Q) — tap a paper for a 100-question quiz or topic-wise study.
 
 | Papers |
 |---|
-| ![Appendix 3 papers](screenshots/appendix3-papers.jpg) |
+| ![Appendix 3 papers](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/appendix3-papers.jpg) |
 
 ### ✨ AI Quizes
 Admin-published quizzes on focused topics (Plan Heads, Statistics Code, Revenue, Stores Account, Pension…).
 
 | AI Quizes |
 |---|
-| ![AI Quizes](screenshots/ai-quizes.jpg) |
+| ![AI Quizes](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/ai-quizes.jpg) |
 
 ### 🤖 AI Assistant Sr.AI'so
 Accounts-expert chatbot — ask anything (e.g. "Option Clause?", "LAP kya hai?") with your own API keys (Free/Groq/Gemini/OpenAI).
 
 | AI Chat | AI Chat |
 |---|---|
-| ![Sr.AI'so chat](screenshots/sr-aiso-chat.jpg) | ![Sr.AI'so LAP](screenshots/sr-aiso-chat-lap.jpg) |
+| ![Sr.AI'so chat](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/sr-aiso-chat.jpg) | ![Sr.AI'so LAP](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/sr-aiso-chat-lap.jpg) |
 
 ### 🔴 Live Quiz
 Live-now quiz with Join button, upcoming scheduled quizzes, and past quiz history.
 
 | Live Quiz |
 |---|
-| ![Live quiz](screenshots/live-quiz.jpg) |
+| ![Live quiz](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/live-quiz.jpg) |
 
 ### 📊 My Performance
 Accuracy donut, stat tiles, score-trend graph, per-mode averages, activity chart, and **Focus Areas** (weakest topics).
 
 | My Performance |
 |---|
-| ![My performance](screenshots/my-performance-full.jpg) |
+| ![My performance](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/my-performance-full.jpg) |
 
 ### 📝 Misc Notes
 Subtopic-wise PDF notes from Drive.
 
 | Misc Notes |
 |---|
-| ![Misc notes](screenshots/misc-notes.jpg) |
+| ![Misc notes](https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/screenshots/misc-notes.jpg) |
 
 
 ---
 
-<p align="center">Developed by <b>kakarot24x</b> <img src="verified.svg" width="16" height="16" alt="✓"></p>
+<p align="center">Developed by <b>kakarot24x</b> <img src="https://raw.githubusercontent.com/kakarot24x/railwayaccountsquiz/assets/verified.svg" width="16" height="16" alt="✓"></p>
